@@ -1,1 +1,1 @@
-# rhel-for-edge-demo
+# RHEL for Edge Disconnected Environment Demo
